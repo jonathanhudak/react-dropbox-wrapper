@@ -33,11 +33,11 @@ export default DropboxWrapper(App);
 ## Account Component
 
 1. import `Account` from `react-dropbox-wrapper`;
-2. Use in component return method like 
+2. Use in component render method like so:
 ```javascript
   <Account {...props} account={account} />
 ```
-3. Account will render a login link unless account is defined
+3. Account component will render a login link unless account is defined
 4. Use the `login` function available in the props passed to the component provided to `DropboxWrapper` to fetch the account info and pass it as props to the Account component. example:
 ```javascript
 class App extends Component {
