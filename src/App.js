@@ -21,7 +21,7 @@ class App extends Component {
     
     return (
       <div className="App">
-        <Account {...{...this.props, account}} />
+        <Account {...this.props} account={account} />
       </div>
     );
   }
