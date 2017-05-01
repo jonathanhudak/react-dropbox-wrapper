@@ -1,5 +1,5 @@
-import DropboxWrapper from './Dropbox';
-import Account from './Account.js';
+import DropboxWrapper from './src/Dropbox';
+import Account from './src/Account.js';
 
 export default {
     Account,
