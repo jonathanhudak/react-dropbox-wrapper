@@ -1,5 +1,7 @@
 # React Dropbox Javascript SDK Wrapper
 
+Dropbox Javascript SDK: https://github.com/dropbox/dropbox-sdk-js
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 [See README](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
