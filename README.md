@@ -62,4 +62,6 @@ class App extends Component {
     );
   }
 }
+
+export default DropboxWrapper(App);
 ```
